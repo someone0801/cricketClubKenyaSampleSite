@@ -254,7 +254,7 @@ export default function App() {
 
       {/* Top Bar - Live Ticker & Weather */}
       <div className="bg-[#000000] text-white text-xs py-2 px-4 border-b-2 border-[#C8102E]">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-2">
+        <div className="w-full flex flex-col md:flex-row justify-between items-center gap-2">
           
           <div className="flex items-center gap-4 text-gray-300">
             <span className="flex items-center gap-1">
